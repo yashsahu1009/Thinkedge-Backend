@@ -1,0 +1,119 @@
+2025-05-05 21:29:12,299 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-05-05 21:44:09,119 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Thinkedge:0.0.1-SNAPSHOT @ E:\thinkedge-main\Thinkedge\pom.xml.
+2025-05-05 21:44:11,317 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Thinkedge/src/main/java
+2025-05-05 21:44:11,322 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Thinkedge/src/main/resources
+2025-05-05 21:44:11,323 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Thinkedge/src/main/resources
+2025-05-05 21:44:11,325 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Thinkedge/src/test/java
+2025-05-05 21:44:11,327 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Thinkedge/src/test/resources
+2025-05-05 21:44:11,842 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2025-05-05 21:44:14,010 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 21:44:14,041 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 21:44:14,050 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 21:54:09,210 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 21:54:09,220 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 21:54:09,227 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:00:09,111 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:00:09,139 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:00:09,153 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:02:27,803 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:02:27,811 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:02:27,819 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:05:39,193 [Worker-21: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:05:39,202 [Worker-21: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:05:39,207 [Worker-21: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:06:39,462 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:06:39,469 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:06:39,474 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:07:46,357 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:07:46,371 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:07:46,379 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:10:18,437 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:10:18,448 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:10:18,458 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:11:08,148 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:11:08,156 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:11:08,163 [Worker-18: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:13:38,749 [Worker-19: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:13:38,755 [Worker-19: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:13:38,759 [Worker-19: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:16:42,160 [Worker-21: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:16:42,170 [Worker-21: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:16:42,174 [Worker-21: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:18:42,404 [Worker-4: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:18:42,417 [Worker-4: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:18:42,422 [Worker-4: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:27:03,210 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:27:03,222 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:27:03,226 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:29:16,521 [Worker-20: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:29:16,534 [Worker-20: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:29:16,538 [Worker-20: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:37:53,666 [Worker-4: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:37:53,675 [Worker-4: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:37:53,679 [Worker-4: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 22:39:39,609 [Worker-23: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 22:39:39,617 [Worker-23: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 22:39:39,621 [Worker-23: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 23:14:30,181 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 23:14:30,203 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 23:14:30,206 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 23:16:17,187 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 23:16:17,195 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 23:16:17,199 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 23:21:35,279 [Worker-10: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 23:21:35,289 [Worker-10: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 23:21:35,292 [Worker-10: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-05 23:24:51,740 [Worker-25: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-05 23:24:51,750 [Worker-25: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-05 23:24:51,755 [Worker-25: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-07 22:07:50,968 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-07 22:15:18,677 [Worker-1: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-07 22:15:18,702 [Worker-1: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-07 22:15:18,719 [Worker-1: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-11 12:29:36,134 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-12 22:43:25,252 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-20 19:04:40,441 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-21 18:19:06,796 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-26 00:32:25,234 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-26 01:31:38,251 [Worker-0: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-26 01:31:38,276 [Worker-0: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-26 01:31:38,286 [Worker-0: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-26 01:37:01,619 [Worker-19: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-26 01:37:01,625 [Worker-19: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-26 01:37:01,629 [Worker-19: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-26 01:42:35,780 [Worker-0: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-26 01:42:35,788 [Worker-0: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-26 01:42:35,793 [Worker-0: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-26 01:46:16,608 [Worker-15: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-26 01:46:16,618 [Worker-15: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-26 01:46:16,623 [Worker-15: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-26 02:13:24,986 [Worker-24: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-26 02:13:25,001 [Worker-24: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-26 02:13:25,007 [Worker-24: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-26 02:14:08,695 [Worker-26: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-26 02:14:08,706 [Worker-26: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-26 02:14:08,714 [Worker-26: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-26 02:18:35,344 [Worker-24: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-26 02:18:35,354 [Worker-24: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-26 02:18:35,360 [Worker-24: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-26 23:43:27,205 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-26 23:43:27,310 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-05-26 23:43:27,317 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-05-27 02:29:02,331 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-06-23 13:53:29,344 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-06-23 13:53:57,638 [Worker-6: Launching ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-23 13:53:57,656 [Worker-6: Launching ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-06-23 13:53:57,668 [Worker-6: Launching ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-07-01 08:53:10,983 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-20 23:31:32,410 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-25 17:42:54,348 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-26 20:52:29,041 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-26 20:52:29,777 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2025-08-09 21:19:51,357 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-08-09 21:20:23,250 [Worker-12: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:20:23,270 [Worker-12: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-08-09 21:20:23,282 [Worker-12: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
+2025-09-02 15:32:50,833 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-09-02 15:33:14,656 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-02 15:33:14,684 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-09-02 15:33:14,694 [Worker-7: Launching Thinkedge - ThinkedgeApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\thinkedge-main\Thinkedge\src\test\resources
